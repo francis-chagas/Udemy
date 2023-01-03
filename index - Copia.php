@@ -1,5 +1,5 @@
 <?php
 
-echo "O inicio de uma fase. <strong> Deus me guie!! </strong>";
+echo "O inicio de uma fase. <strong> Deus me guie!!!!! </strong>";
 
 ?>
